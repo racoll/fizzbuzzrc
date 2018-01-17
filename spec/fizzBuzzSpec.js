@@ -45,8 +45,7 @@ describe("fizzBuzz", function() {
       expect(fizzBuzz.play(11)).toEqual(11);
     });
 
-    test
-    
+
   });
 
 
